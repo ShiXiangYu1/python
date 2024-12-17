@@ -13,6 +13,9 @@ files:
   - name: tests.py
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/98/stages/540/implement#comment
+feedback_link: https://hyperskill.org/learn/step/8816#comment
 status: Unchecked
+feedback:
+  message: 没有运行任何测试。有关详情，请参阅<a href="https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#no_tests_have_run">故障排除指南</a>
+  time: "Tue, 17 Dec 2024 06:05:56 UTC"
 record: -1
