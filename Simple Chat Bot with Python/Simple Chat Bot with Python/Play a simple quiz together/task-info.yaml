@@ -12,6 +12,9 @@ files:
   - name: tests.py
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/97/stages/538/implement#comment
+  - name: bot/1.py
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8803#comment
 status: Unchecked
 record: -1
